@@ -1,44 +1,57 @@
-## Hi there 👋
 <div align="center">
+  <!-- Dynamic Modern Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=180&section=header&text=Hi%20there,%20I'm%20Faris%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn" width="100%" />
 
-  <!-- بنر متحرك للكتابة التلقائية -->
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Faris;Frontend+Web+Developer;Building+Modern+Web+Apps" alt="Typing SVG" />
+  <!-- Animated Typing Subtitle -->
+  <a href="#">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=61DAFB&center=true&vCenter=true&width=550&lines=Modern+Frontend+Engineer;React+%26+Next.js+Specialist;Building+Modern%2C+Fast+%26+Scalable+Web+Apps;TypeScript+%7C+Tailwind+CSS+%7C+Modern+UI%2FUX" alt="Typing SVG" />
+  </a>
 
-  <p>
-    مطور واجهات أمامية مهتم بصناعة تجارب ويب تفاعلية وسلسة 🚀
+  <p align="center">
+    Frontend Developer focused on building high-performance, accessible, and interactive user interfaces using modern web technologies.
   </p>
 
-  <!-- روابط التواصل والموقع -->
-  <p>
+  <p align="center">
     <a href="https://farisbahmidan.github.io/faris-cv/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website" />
+      <img src="https://img.shields.io/badge/🌐_Portfolio-2563EB?style=for-the-badge&logoColor=white" alt="Portfolio" />
+    </a>
+    <a href="https://linkedin.com/in/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
   </p>
-
 </div>
 
 ---
 
-### 🛠️ الأدوات والتقنيات (Tech Stack)
+### 🚀 About Me
+
+- 🔭 **Specialization:** Building scalable, interactive web applications with **React**, **Next.js**, and **TypeScript**.
+- 🎨 **UI/UX & Styling:** Crafting clean design systems and responsive layouts with **Tailwind CSS**.
+- ⚡ **Performance:** Focused on writing clean, modular code, SEO optimization, and smooth user experiences.
+- 🌱 **Continuous Learning:** Exploring the latest frontend architectures, state management patterns, and Next.js App Router.
+
+---
+
+### 🛠️ Tech Stack & Ecosystem
 
 <div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,html,css,tailwind,redux,vite,git,github,vscode,figma,vercel&perline=7" alt="Tech Stack" />
+  </a>
 </div>
 
 ---
 
-### 📊 إحصائيات GitHub
+### 📊 GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=FarisAboBahmidan&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=FarisAboBahmidan&theme=tokyonight&hide_border=true&background=0d1117" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=FarisAboBahmidan&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" height="155" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisAboBahmidan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" height="155" />
 </div>
 
-<div align="center" style="margin-top: 15px;">
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FarisAboBahmidan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+<br />
+
+<div align="center">
+  <!-- Modern Footer Curve -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20,30&height=90&section=footer" width="100%" />
 </div>
